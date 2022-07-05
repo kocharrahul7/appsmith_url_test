@@ -3,6 +3,10 @@
     {
       "id": "Home Page",
       "isDefault": true
+    },
+    {
+      "id": "Dashboard",
+      "isDefault": false
     }
   ],
   "viewMode": false,
