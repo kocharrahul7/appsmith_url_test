@@ -7,6 +7,10 @@
     {
       "id": "Dashboard",
       "isDefault": false
+    },
+    {
+      "id": "thing",
+      "isDefault": false
     }
   ],
   "viewMode": false,
